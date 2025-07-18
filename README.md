@@ -48,7 +48,3 @@ This Power BI dashboard provides a comprehensive analysis of Blinkit’s busines
 <img width="616" height="335" alt="image" src="https://github.com/user-attachments/assets/2bf67b0b-0313-4fe1-926c-811821aed765" />
 
 
-```markdown
-![Overview Page](images/overview.png)
-![Category Sales](images/category-sales.png)
-![Delivery Performance](images/delivery.png)
